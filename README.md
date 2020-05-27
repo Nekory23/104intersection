@@ -25,7 +25,7 @@ See the subject for further details !
 
 1st semester Maths unit
 
-Grade : B
+Grade : B | Mark : 15.9
 
 Score : 82.6%
   - Rigor               : 100%    --- 19/19
