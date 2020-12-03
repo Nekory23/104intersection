@@ -31,7 +31,7 @@ Grade : B | Mark : 15.9
 | Rigor      | 100%       | 19/19 | x       |
 | Sphere     | 100%       | 8/8   | x       |
 | Cylinder   | 88.9%      | 8/9   | x       |
-| Cone       | 30         | 3/10  | x       |
+| Cone       | 30%         | 3/10  | x       |
 | **End scores** | **82.6%**      | **38/46** | **No**      |
   
 Beware of -42 Epitech students !!!
