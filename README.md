@@ -1,6 +1,5 @@
 # 104intersection
-
-{EPITECH} | First year | Math project
+# {EPITECH} | First year | Math project
 
 To create synthesis images (when doing ray tracing, for example), potential intersection points between 
 light rays and scene objects (here cylinders, spheres and cones) must be computed.
@@ -23,14 +22,16 @@ See the subject for further details !
 
 ========================
 
-1st semester Maths unit
+## 1st semester Maths unit
 
 Grade : B | Mark : 15.9
 
-Score : 82.6%
-  - Rigor               : 100%    --- 19/19
-  - Sphere              : 100%    --- 8/8
-  - Cylinder            : 88.9%   --- 8/9
-  - Cone                : 30%     --- 3/10
+| Category   | Percentage | Tests | Crash ? |
+|------------|------------|-------|---------|
+| Rigor      | 100%       | 19/19 | x       |
+| Sphere     | 100%       | 8/8   | x       |
+| Cylinder   | 88.9%      | 8/9   | x       |
+| Cone       | 30         | 3/10  | x       |
+| **End scores** | **82.6%**      | **38/46** | **No**      |
   
 Beware of -42 Epitech students !!!
